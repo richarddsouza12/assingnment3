@@ -16,3 +16,8 @@ StockMarket Listing Selenium Excell Hasmaps
 - 2 - Read the newly created XLS file and populate List<Hashmap> listHashMap1
 - 3 - Populate List<Hashmap> listHashMap2 from Selenium WebElements List data
 - 4 - Compare both the hashmaps using SoftAsserts
+
+
+**Screencast of execution in Root Folder**
+
+/Screencast Execution.webm

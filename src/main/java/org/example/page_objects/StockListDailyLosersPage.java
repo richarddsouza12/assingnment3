@@ -16,7 +16,7 @@ import java.util.List;
 
 public class StockListDailyLosersPage {
 
-    public final int RECORD_LIMIT          = 2;  /** limit data fetch records as 2000+ records are present */
+    public final int RECORD_LIMIT          = 10;  /** limit data fetch records as 2000+ records are present */
     public final String XPATH_LOSERS_TABLE = "//div[@id='leftcontainer']//table[contains(@class,'dataTable')]";
     public final String  XLSX_FILE_PATH    = System.getProperty("user.dir") + "/src/test/data/StockMarketTopDailyLoserRecords.xlsx";
 
