@@ -4,6 +4,7 @@ StockMarket Listing Selenium Excell Hasmaps
 **Contents**
 - Page Object Model Approach
 - TestNG , Maven , Maven Surefire Plugin , testng.xml file
+- Limit records fetched due to 2000+ records. Config in POM file
 
 **Command**
 ```
